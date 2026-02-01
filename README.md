@@ -1,7 +1,8 @@
 ## 📚 References
 
-This pipeline implementation draws on techniques and methods from the Delta Live Tables tutorial:
-https://www.youtube.com/watch?v=bIIC44n2Dss
+This pipeline implementation draws on techniques and methods from the Databricks Delta Live Tables (DLT) tutorial on YouTube, which covers building and managing data pipelines using Delta Live Tables — a declarative ETL framework that simplifies ingestion, transformation, and orchestration of data workflows in Databricks. :contentReference[oaicite:1]{index=1}
+
+Reference: https://www.youtube.com/watch?v=bIIC44n2Dss
 
 # 🚕 The GoodCabs Project  
 ### End-to-End Data Engineering Pipeline using Databricks & Delta Live Tables
