@@ -1,3 +1,8 @@
+## 📚 References
+
+This pipeline implementation draws on techniques and methods from the Delta Live Tables tutorial:
+https://www.youtube.com/watch?v=bIIC44n2Dss
+
 # 🚕 The GoodCabs Project  
 ### End-to-End Data Engineering Pipeline using Databricks & Delta Live Tables
 
